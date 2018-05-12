@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '41815'
     url: http://www.gutenberg.org/2009/agents/41815
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42682#The-Heritage-of-DressBeing-Notes-on-the-History-and-Evolution-of-Clothes
 gutenberg_issued: '2013-05-10'
 gutenberg_type: Text
 identifiers:
