@@ -1,0 +1,29 @@
+_repo: The-Heritage-of-DressBeing-Notes-on-the-History-and-Evolution-of-Clothes_42682
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42682-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Webb, Wilfred Mark
+    alias: Webb, W. M. (Wilfred Mark)
+    birthdate: 1868
+    deathdate: 1952
+    gutenberg_agent_id: '41815'
+    url: http://www.gutenberg.org/2009/agents/41815
+description: ''
+gutenberg_issued: '2013-05-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42682'
+  lccn: 08012147
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Clothing and dress -- History'
+- !lcc 'GT'
+- !lcsh 'Clothing and dress'
+title: 'The Heritage of Dress: Being Notes on the History and Evolution of Clothes'
+url: http://www.gutenberg.org/ebooks/42682
